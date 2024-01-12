@@ -1,0 +1,12 @@
+/ShapeNetCorev2
+/__pycache__
+/all_patches.mat
+/messy_ones
+/normals_list.npy
+/normals_list2.npy
+/normals_list_f.npy
+/pcd_list.npy
+/pcd_list2.npy
+/sampled.mat
+/upsamp_it1.npy
+/uv_shapenet
